@@ -62758,7 +62758,7 @@ S(a){return new A.u0(!0,!0,this.d[0],null)}}
 A.hG.prototype={}
 A.kO.prototype={
 S(a){var s=null,r=t.af
-return new A.q5(new A.oB(new A.R3(),s,s,s,A.apW(),A.aoK(),t.oF),s,s,A.XJ(B.eW,A.a([new A.yv(s),new A.E_(new A.zg(B.ax,B.hk,B.hl,B.jK,s,B.ip,s,A.a([A.nZ(s,40,s),new A.CF(s),new A.ef(B.jY,A.Ep("Coding Club",s,A.he(s,s,B.i,s,s,s,s,s,s,s,s,80,s,s,B.dK,s,s,!0,s,5,s,s,s,s,s,s),B.de),s),new A.ef(B.jY,A.Ep("one site for all assets of 22CSP-351",s,A.he(s,s,B.u,s,s,s,s,s,s,s,s,20,s,s,B.dK,s,s,!0,s,2,s,s,s,s,s,s),B.de),s),new A.zT(80,1,50,50,B.pt,s),A.nZ(s,40,s),new A.rD(new A.R4(),s),A.nZ(s,32,s)],r),s),s),new A.yK(s)],r),B.ia),s,t.Qw)}}
+return new A.q5(new A.oB(new A.R3(),s,s,s,A.apW(),A.aoK(),t.oF),s,s,A.XJ(B.eW,A.a([new A.yv(s),new A.E_(new A.zg(B.ax,B.hk,B.hl,B.jK,s,B.ip,s,A.a([A.nZ(s,40,s),new A.CF(s),new A.ef(B.jY,A.Ep("Coding Club",s,A.he(s,s,B.i,s,s,s,s,s,s,s,s,80,s,s,B.dK,s,s,!0,s,5,s,s,s,s,s,s),B.de),s),new A.ef(B.jY,A.Ep("one site for all assets of 22CSP-351\nfor research requests, contact: amir.e18364@cumail.in",s,A.he(s,s,B.u,s,s,s,s,s,s,s,s,20,s,s,B.dK,s,s,!0,s,2,s,s,s,s,s,s),B.de),s),new A.zT(80,1,50,50,B.pt,s),A.nZ(s,40,s),new A.rD(new A.R4(),s),A.nZ(s,32,s)],r),s),s),new A.yK(s)],r),B.ia),s,t.Qw)}}
 A.R3.prototype={
 $1(a){return new A.hG($.aL())},
 $S:374}
