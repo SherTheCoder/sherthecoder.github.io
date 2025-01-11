@@ -67850,8 +67850,8 @@ $.a8I=A.x(t.I7,t.S)
 $.WZ=0
 $.d3=null
 $.aj=null
-$.a7o=function(){var s="https://forms.gle/a28FHjzoB1JLkV3T6",r=t.N
-return A.az(["IOT 644 Assessment","https://forms.gle/wNDt1RQvBihUKuAL6","IOT 618 Assessment","https://forms.gle/vi6f2ajCymmEZd5XA","EPAM 802 Assessment","https://forms.gle/LEWSiogVvUasyjZMA","IOT 606 Assessment","https://forms.gle/qXwmWh3DRPm6rSPt5","IOT 605 Assessment",s,"Assessment Session 1",s],r,r)}()
+$.a7o=function(){var s=t.N
+return A.az(["Assessment 1","https://leetcode.com/problems/jump-game/","Assessment 2","https://leetcode.com/problems/jump-game-ii/","Assessment 3","https://leetcode.com/problems/majority-element/","Assessment 4","https://leetcode.com/problems/valid-palindrome/","Graded Assignment","https://leetcode.com/problems/first-unique-character-in-a-string/","Assignment Submission","https://forms.gle/a28FHjzoB1JLkV3T6"],s,s)}()
 $.aj7=A.x(t.S,A.a4("arf"))
 $.aab=null
 $.aa9=null
