@@ -67851,7 +67851,7 @@ $.WZ=0
 $.d3=null
 $.aj=null
 $.a7o=function(){var s=t.N
-return A.az(["Assessment 1","https://leetcode.com/problems/jump-game/","Assessment 2","https://leetcode.com/problems/jump-game-ii/","Assessment 3","https://leetcode.com/problems/majority-element/","Assessment 4","https://leetcode.com/problems/valid-palindrome/","Graded Assignment","https://leetcode.com/problems/first-unique-character-in-a-string/","Assignment Submission","https://forms.gle/a28FHjzoB1JLkV3T6"],s,s)}()
+return A.az(["Assessment 1","https://leetcode.com/problems/merge-two-sorted-lists/","Assessment 2","https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/","Assessment 3","https://leetcode.com/problems/remove-duplicates-from-sorted-list/","Assessment 4","https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/","Assessment 5","https://leetcode.com/problems/insertion-sort-list/","Assessment 6","https://leetcode.com/problems/design-circular-queue/solutions/?envType=problem-list-v2&envId=linked-list","Assessment 7","https://leetcode.com/problems/lfu-cache/description/","Graded Assignment","https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/","Assignment Submission","https://forms.gle/a28FHjzoB1JLkV3T6","Using Bitsets","https://leetcode.com/discuss/study-guide/1365152/bitset-in-c-useful-for-bit-manipulation"],s,s)}()
 $.aj7=A.x(t.S,A.a4("arf"))
 $.aab=null
 $.aa9=null
