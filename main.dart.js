@@ -67851,7 +67851,7 @@ $.WZ=0
 $.d3=null
 $.aj=null
 $.a7o=function(){var s=t.N
-return A.az(["Assessment 1","https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list","Assessment 2","https://leetcode.com/problems/linked-list-cycle-ii/description/?envType=problem-list-v2&envId=linked-list","Assessment 3","https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=linked-list","Assessment 4","https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=problem-list-v2&envId=linked-list","Assessment 5","https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=problem-list-v2&envId=linked-list","Graded Assignment 2","https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list","Assignment Submission","https://forms.gle/faFQgT4UrZ16Pdc48","Using Bitsets","https://leetcode.com/discuss/study-guide/1365152/bitset-in-c-useful-for-bit-manipulation"],s,s)}()
+return A.az(["Assignment 1","https://leetcode.com/problems/reverse-linked-list/","Assessment 2","https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list","Assessment 3","https://leetcode.com/problems/linked-list-cycle-ii/description/?envType=problem-list-v2&envId=linked-list","Assignment 4","https://leetcode.com/problems/reverse-linked-list-ii/","Graded Assignment 2","https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list","Assignment Submission","https://forms.gle/faFQgT4UrZ16Pdc48","Using Bitsets","https://leetcode.com/discuss/study-guide/1365152/bitset-in-c-useful-for-bit-manipulation"],s,s)}()
 $.aj7=A.x(t.S,A.a4("arf"))
 $.aab=null
 $.aa9=null
