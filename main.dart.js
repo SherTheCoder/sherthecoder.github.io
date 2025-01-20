@@ -67851,7 +67851,7 @@ $.WZ=0
 $.d3=null
 $.aj=null
 $.a7o=function(){var s=t.N
-return A.az(["Assignment 1","https://leetcode.com/problems/reverse-linked-list/","Assessment 2","https://leetcode.com/problems/add-two-numbers/","Assessment 3","https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list","Assignment 4","https://leetcode.com/problems/reverse-linked-list-ii/","Graded Assignment 2","https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list","Assignment Submission","https://forms.gle/faFQgT4UrZ16Pdc48","Using Bitsets","https://leetcode.com/discuss/study-guide/1365152/bitset-in-c-useful-for-bit-manipulation"],s,s)}()
+return A.az(["Assignment 1","https://www.geeksforgeeks.org/problems/insertion-sort/1","Assignment 2","https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array","Assignment 3","https://leetcode.com/problems/valid-palindrome/","Assessment 4","https://leetcode.com/problems/majority-element","Assignment 4","https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array","Assignment 5","https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=array","Graded Assessment","https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=array","Assignment Submit","https://forms.gle/a28FHjzoB1JLkV3T6"],s,s)}()
 $.aj7=A.x(t.S,A.a4("arf"))
 $.aab=null
 $.aa9=null
