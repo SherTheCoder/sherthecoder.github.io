@@ -67851,7 +67851,7 @@ $.WZ=0
 $.d3=null
 $.aj=null
 $.a7o=function(){var s=t.N
-return A.az(["Assignment 1","https://www.geeksforgeeks.org/problems/insertion-sort/1","Optional 1","https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array","Optional 2","https://leetcode.com/problems/valid-palindrome/","Optional 3","https://leetcode.com/problems/majority-element","Optional 4","https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array","Assignment 2","https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=array","Assignment 3","https://leetcode.com/problems/binary-search/","Graded Assessment","https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/","Assignment Submit","https://forms.gle/a28FHjzoB1JLkV3T6"],s,s)}()
+return A.az(["Assignment 1","https://www.geeksforgeeks.org/problems/insertion-sort/1","Optional 1","https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=array","Optional 2","https://leetcode.com/problems/valid-palindrome/","Optional 3","https://leetcode.com/problems/majority-element","Optional 4","https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array","Assignment 2","https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=array","Assignment 3","https://leetcode.com/problems/binary-search/","Graded Assessment","https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/","Assignment Submit","https://forms.gle/e3642asJ2D3WpkXAA"],s,s)}()
 $.aj7=A.x(t.S,A.a4("arf"))
 $.aab=null
 $.aa9=null
