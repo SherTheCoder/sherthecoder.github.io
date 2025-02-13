@@ -66442,7 +66442,7 @@ return new A.dl(new A.bc(p,0,p,0),new A.tg(new A.Fv(s,20,r*2/4,80),new A.Fs(new 
 $S:135}
 A.WR.prototype={
 $2(a,b){var s=null
-return A.i8(s,new A.kU(b===6?"Special Session":"Lab "+(b+1),B.Aq,s),B.a0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.WQ(a,b),s,s,s)},
+return A.i8(s,new A.kU(b===5?"Special Session":"Lab "+(b+1),B.Aq,s),B.a0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.WQ(a,b),s,s,s)},
 $S:137}
 A.WQ.prototype={
 $0(){var s=A.anA(new A.C0(this.b,null))
