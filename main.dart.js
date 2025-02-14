@@ -10226,8 +10226,8 @@ if(j)i=a.y
 else i=b.y
 h=A.L(a.z,b.z,c)
 g=A.L(a.Q,b.Q,c)
-f=A.aL(a.as,b.as,c)
-e=A.aL(a.at,b.at,c)
+f=A.aM(a.as,b.as,c)
+e=A.aM(a.at,b.at,c)
 if(j)j=a.ax
 else j=b.ax
 return A.aku(k,s,i,q,r,l,p,o,m,n,j,h,e,g,f)},
@@ -10277,7 +10277,7 @@ s=A.n(a.a,b.a,c)
 r=A.n(a.b,b.b,c)
 q=A.L(a.c,b.c,c)
 p=A.L(a.d,b.d,c)
-o=A.aL(a.e,b.e,c)
+o=A.aM(a.e,b.e,c)
 n=A.d9(a.f,b.f,c)
 m=A.qu(a.r,b.r,c)
 return new A.qN(s,r,q,p,o,n,m,A.Di(a.w,b.w,c))},
@@ -10328,8 +10328,8 @@ q=A.ib(a.c,b.c,c)
 p=A.ib(a.d,b.d,c)
 o=A.n(a.e,b.e,c)
 n=A.n(a.f,b.f,c)
-m=A.aL(a.r,b.r,c)
-l=A.aL(a.w,b.w,c)
+m=A.aM(a.r,b.r,c)
+l=A.aM(a.w,b.w,c)
 k=c<0.5
 if(k)j=a.x
 else j=b.x
@@ -10741,8 +10741,8 @@ g=A.d9(a3.Q,a4.Q,a5)
 f=A.d9(a3.as,a4.as,a5)
 e=A.akX(a3.at,a4.at,a5)
 d=A.akW(a3.ax,a4.ax,a5)
-c=A.aL(a3.ay,a4.ay,a5)
-b=A.aL(a3.ch,a4.ch,a5)
+c=A.aM(a3.ay,a4.ay,a5)
+b=A.aM(a3.ch,a4.ch,a5)
 if(j){j=a3.CW
 if(j==null)j=B.P}else{j=a4.CW
 if(j==null)j=B.P}a=A.L(a3.cx,a4.cx,a5)
@@ -11068,10 +11068,10 @@ r=t._
 q=A.ap(a.b,b.b,c,A.bh(),r)
 p=A.L(a.c,b.c,c)
 o=A.L(a.d,b.d,c)
-n=A.aL(a.e,b.e,c)
+n=A.aM(a.e,b.e,c)
 r=A.ap(a.f,b.f,c,A.bh(),r)
 m=A.L(a.r,b.r,c)
-l=A.aL(a.w,b.w,c)
+l=A.aM(a.w,b.w,c)
 k=A.L(a.x,b.x,c)
 j=A.L(a.y,b.y,c)
 i=A.L(a.z,b.z,c)
@@ -11105,10 +11105,10 @@ p=A.n(b7.d,b8.d,b9)
 o=A.cj(b7.e,b8.e,b9)
 n=A.n(b7.f,b8.f,b9)
 m=A.n(b7.r,b8.r,b9)
-l=A.aL(b7.w,b8.w,b9)
-k=A.aL(b7.x,b8.x,b9)
-j=A.aL(b7.y,b8.y,b9)
-i=A.aL(b7.z,b8.z,b9)
+l=A.aM(b7.w,b8.w,b9)
+k=A.aM(b7.x,b8.x,b9)
+j=A.aM(b7.y,b8.y,b9)
+i=A.aM(b7.z,b8.z,b9)
 h=t._
 g=A.ap(b7.Q,b8.Q,b9,A.bh(),h)
 f=A.ap(b7.as,b8.as,b9,A.bh(),h)
@@ -11117,7 +11117,7 @@ d=A.ap(b7.ax,b8.ax,b9,A.a7h(),t.KX)
 c=A.ap(b7.ay,b8.ay,b9,A.bh(),h)
 b=A.ap(b7.ch,b8.ch,b9,A.bh(),h)
 a=A.ali(b7.CW,b8.CW,b9)
-a0=A.aL(b7.cx,b8.cx,b9)
+a0=A.aM(b7.cx,b8.cx,b9)
 a1=A.ap(b7.cy,b8.cy,b9,A.bh(),h)
 a2=A.ap(b7.db,b8.db,b9,A.bh(),h)
 a3=A.ap(b7.dx,b8.dx,b9,A.bh(),h)
@@ -11128,8 +11128,8 @@ a7=A.n(b7.fy,b8.fy,b9)
 a8=A.cj(b7.go,b8.go,b9)
 a9=A.n(b7.id,b8.id,b9)
 b0=A.n(b7.k1,b8.k1,b9)
-b1=A.aL(b7.k2,b8.k2,b9)
-b2=A.aL(b7.k3,b8.k3,b9)
+b1=A.aM(b7.k2,b8.k2,b9)
+b2=A.aM(b7.k3,b8.k3,b9)
 b3=A.n(b7.k4,b8.k4,b9)
 h=A.ap(b7.ok,b8.ok,b9,A.bh(),h)
 b4=A.n(b7.p1,b8.p1,b9)
@@ -11250,8 +11250,8 @@ p=A.n(a.d,b.d,c)
 o=A.cj(a.e,b.e,c)
 n=A.qu(a.f,b.f,c)
 m=A.n(a.y,b.y,c)
-l=A.aL(a.r,b.r,c)
-k=A.aL(a.w,b.w,c)
+l=A.aM(a.r,b.r,c)
+k=A.aM(a.w,b.w,c)
 j=A.d9(a.x,b.x,c)
 i=A.n(a.z,b.z,c)
 return new A.rv(s,r,q,p,o,n,l,k,j,m,i,A.QQ(a.Q,b.Q,c))},
@@ -11333,7 +11333,7 @@ _.w=h},
 HZ:function HZ(){},
 am5(a,b,c){var s,r
 if(a===b)return a
-s=A.aL(a.a,b.a,c)
+s=A.aM(a.a,b.a,c)
 if(c<0.5)r=a.b
 else r=b.b
 return new A.rC(s,r,A.a9u(a.c,b.c,c))},
@@ -11516,7 +11516,7 @@ c=A.h1(a2.ay,a3.ay,a4)
 b=A.h1(a2.ch,a3.ch,a4)
 a=A.L(a2.CW,a3.CW,a4)
 a0=A.d9(a2.cx,a3.cx,a4)
-a1=A.aL(a2.cy,a3.cy,a4)
+a1=A.aM(a2.cy,a3.cy,a4)
 if(h)h=a2.db
 else h=a3.db
 return A.amo(r,k,n,g,a,a0,b,a1,q,m,s,j,p,l,f,c,h,i,e,d,o)},
@@ -12008,9 +12008,9 @@ else p=a2.c
 o=A.n(a1.d,a2.d,a3)
 n=A.n(a1.e,a2.e,a3)
 m=A.n(a1.f,a2.f,a3)
-l=A.aL(a1.r,a2.r,a3)
-k=A.aL(a1.w,a2.w,a3)
-j=A.aL(a1.x,a2.x,a3)
+l=A.aM(a1.r,a2.r,a3)
+k=A.aM(a1.w,a2.w,a3)
+j=A.aM(a1.x,a2.x,a3)
 i=A.d9(a1.y,a2.y,a3)
 h=A.n(a1.z,a2.z,a3)
 g=A.n(a1.Q,a2.Q,a3)
@@ -12297,8 +12297,8 @@ anF(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h
 if(a===b)return a
 s=A.n(a.a,b.a,c)
 r=A.L(a.b,b.b,c)
-q=A.aL(a.c,b.c,c)
-p=A.aL(a.d,b.d,c)
+q=A.aM(a.c,b.c,c)
+p=A.aM(a.d,b.d,c)
 o=a.e
 if(o==null)n=b.e==null
 else n=!1
@@ -12486,7 +12486,7 @@ r=A.cj(a.b,b.b,c)
 q=A.L(a.c,b.c,c)
 p=A.n(a.d,b.d,c)
 o=A.n(a.e,b.e,c)
-n=A.aL(a.f,b.f,c)
+n=A.aM(a.f,b.f,c)
 m=A.ap(a.r,b.r,c,A.qm(),t.p8)
 l=c<0.5
 if(l)k=a.w
@@ -12821,8 +12821,8 @@ o=A.adT(a.e,b.e,c)
 n=A.L(a.f,b.f,c)
 m=a.r
 l=b.r
-k=A.aL(m,l,c)
-m=A.aL(m,l,c)
+k=A.aM(m,l,c)
+m=A.aM(m,l,c)
 l=A.h1(a.x,b.x,c)
 return new A.vt(s,r,q,p,o,n,k,m,l,A.n(a.y,b.y,c))},
 aoU(a,b,c){if(a==null||b==null)return null
@@ -12879,7 +12879,7 @@ a5=b?b3.fr:b4.fr
 a6=b?b3.fx:b4.fx
 a7=b?b3.fy:b4.fy
 a8=b?b3.go:b4.go
-a9=A.aL(b3.id,b4.id,b5)
+a9=A.aM(b3.id,b4.id,b5)
 b0=A.L(b3.k1,b4.k1,b5)
 b1=b?b3.k2:b4.k2
 b2=b?b3.k3:b4.k3
@@ -12925,7 +12925,7 @@ if(a===b)return a
 s=A.n(a.a,b.a,c)
 r=A.n(a.b,b.b,c)
 q=A.n(a.c,b.c,c)
-p=A.aL(a.d,b.d,c)
+p=A.aM(a.d,b.d,c)
 o=A.L(a.e,b.e,c)
 n=A.cj(a.f,b.f,c)
 m=c<0.5
@@ -12994,9 +12994,9 @@ o=A.n(a.d,b.d,c)
 n=q?a.e:b.e
 m=A.n(a.f,b.f,c)
 l=A.d9(a.r,b.r,c)
-k=A.aL(a.w,b.w,c)
+k=A.aM(a.w,b.w,c)
 j=A.n(a.x,b.x,c)
-i=A.aL(a.y,b.y,c)
+i=A.aM(a.y,b.y,c)
 h=A.ap(a.z,b.z,c,A.bh(),t._)
 g=q?a.Q:b.Q
 f=q?a.as:b.as
@@ -13033,21 +13033,21 @@ LU:function LU(){},
 a9Z(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){return new A.dh(d,e,f,g,h,i,m,n,o,a,b,c,j,k,l)},
 p4(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b)return a
-s=A.aL(a.a,b.a,c)
-r=A.aL(a.b,b.b,c)
-q=A.aL(a.c,b.c,c)
-p=A.aL(a.d,b.d,c)
-o=A.aL(a.e,b.e,c)
-n=A.aL(a.f,b.f,c)
-m=A.aL(a.r,b.r,c)
-l=A.aL(a.w,b.w,c)
-k=A.aL(a.x,b.x,c)
-j=A.aL(a.y,b.y,c)
-i=A.aL(a.z,b.z,c)
-h=A.aL(a.Q,b.Q,c)
-g=A.aL(a.as,b.as,c)
-f=A.aL(a.at,b.at,c)
-return A.a9Z(j,i,h,s,r,q,p,o,n,g,f,A.aL(a.ax,b.ax,c),m,l,k)},
+s=A.aM(a.a,b.a,c)
+r=A.aM(a.b,b.b,c)
+q=A.aM(a.c,b.c,c)
+p=A.aM(a.d,b.d,c)
+o=A.aM(a.e,b.e,c)
+n=A.aM(a.f,b.f,c)
+m=A.aM(a.r,b.r,c)
+l=A.aM(a.w,b.w,c)
+k=A.aM(a.x,b.x,c)
+j=A.aM(a.y,b.y,c)
+i=A.aM(a.z,b.z,c)
+h=A.aM(a.Q,b.Q,c)
+g=A.aM(a.as,b.as,c)
+f=A.aM(a.at,b.at,c)
+return A.a9Z(j,i,h,s,r,q,p,o,n,g,f,A.aM(a.ax,b.ax,c),m,l,k)},
 dh:function dh(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.a=a
 _.b=b
@@ -13239,7 +13239,7 @@ c2=A.n(c0.a,c1.a,d4)
 c3=A.n(c0.b,c1.b,d4)
 c4=A.n(c0.c,c1.c,d4)
 c5=A.n(c0.d,c1.d,d4)
-c6=A.aL(c0.e,c1.e,d4)
+c6=A.aM(c0.e,c1.e,d4)
 c7=A.L(c0.f,c1.f,d4)
 c8=A.d9(c0.r,c1.r,d4)
 c0=A.d9(c0.w,c1.w,d4)
@@ -13388,18 +13388,18 @@ n=a5.goQ()
 o=A.n(o,n,a6)
 n=t.KX.a(A.cj(a4.f,a5.f,a6))
 m=A.n(a4.r,a5.r,a6)
-l=A.aL(a4.w,a5.w,a6)
+l=A.aM(a4.w,a5.w,a6)
 k=A.n(a4.x,a5.x,a6)
 j=A.n(a4.y,a5.y,a6)
 i=A.n(a4.z,a5.z,a6)
-h=A.aL(a4.Q,a5.Q,a6)
+h=A.aM(a4.Q,a5.Q,a6)
 g=A.L(a4.as,a5.as,a6)
 f=A.n(a4.at,a5.at,a6)
-e=A.aL(a4.ax,a5.ax,a6)
+e=A.aM(a4.ax,a5.ax,a6)
 d=A.n(a4.ay,a5.ay,a6)
 c=A.cj(a4.ch,a5.ch,a6)
 b=A.n(a4.CW,a5.CW,a6)
-a=A.aL(a4.cx,a5.cx,a6)
+a=A.aM(a4.cx,a5.cx,a6)
 if(a6<0.5)a0=a4.cy
 else a0=a5.cy
 a1=A.d9(a4.db,a5.db,a6)
@@ -13435,7 +13435,7 @@ a0j:function a0j(a){this.a=a},
 M0:function M0(){},
 apF(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b)return a
-s=A.aL(a.a,b.a,c)
+s=A.aM(a.a,b.a,c)
 r=A.h1(a.b,b.b,c)
 q=A.n(a.c,b.c,c)
 p=A.n(a.d,b.d,c)
@@ -13571,7 +13571,7 @@ else n=b.e
 if(o)m=a.f
 else m=b.f
 l=A.PW(a.r,b.r,c)
-k=A.aL(a.w,b.w,c)
+k=A.aM(a.w,b.w,c)
 if(o)o=a.x
 else o=b.x
 return new A.wf(s,r,q,p,n,m,l,k,o)},
@@ -14533,7 +14533,7 @@ _.c=b
 _.e=c
 _.a=d},
 fJ(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6){return new A.q(r,c,b,i,j,a3,l,o,m,a0,a6,a5,q,s,a1,p,a,e,f,g,h,d,a4,k,n,a2)},
-aL(a7,a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null
+aM(a7,a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null
 if(a7==a8)return a7
 if(a7==null){s=a8.a
 r=A.n(a6,a8.b,a9)
@@ -21405,7 +21405,7 @@ _.B$=0
 _.G$=a
 _.a3$=_.Y$=0
 _.a1$=!1},
-aM(a,b,c){return new A.E5(c,a)},
+aL(a,b,c){return new A.E5(c,a)},
 te(a,b){return new A.SN(a)},
 nU(a,b){return new A.Cq(b,a)},
 E5:function E5(a,b){this.a=a
@@ -58910,7 +58910,7 @@ s[15]=1
 q.aJ(n)
 return q}}
 A.mr.prototype={
-cS(a){var s=A.aL(this.a,this.b,a)
+cS(a){var s=A.aM(this.a,this.b,a)
 s.toString
 return s}}
 A.Cd.prototype={}
@@ -67813,7 +67813,7 @@ o(j=A.CZ.prototype,"gVD","VE",231)
 o(j,"gVq","Vr",2)
 o(j,"grS","Z",88)
 m(A.Gq.prototype,"ga_4","a_5",236)
-q(A,"qm",3,null,["$3"],["aL"],436,0)
+q(A,"qm",3,null,["$3"],["aM"],436,0)
 o(j=A.BQ.prototype,"ga7j","dd",60)
 o(j,"gtx","dZ",60)
 r(A,"asG","aqb",138)
@@ -72010,15 +72010,15 @@ s($,"axq","ajq",()=>A.UF(A.bD([B.hJ],t.r)))
 s($,"ayt","ak4",()=>new A.WB(A.z(t.N,A.a4("ab<bW?>?(bW?)"))))
 s($,"avp","a8a",()=>A.acU())
 r($,"ay2","ajQ",()=>{var q="https://forms.gle/faFQgT4UrZ16Pdc48"
-return A.te(A.a([A.aM(u.l,q,"Rotate List")],t.Y),q)})
-r($,"ay3","ajR",()=>A.te(A.a([A.aM("https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",null,"Longest Substr"),A.aM("https://leetcode.com/problems/group-anagrams/description/",null,"Group Anagrams"),A.aM("https://forms.gle/54ZiMtvGasZmyZJN6",null,"Submission")],t.Y),"https://forms.gle/faFQgT4UrZ16Pdc48"))
+return A.te(A.a([A.aL(u.l,q,"Rotate List")],t.Y),q)})
+r($,"ay3","ajR",()=>A.te(A.a([A.aL("https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",null,"Longest Substr"),A.aL("https://leetcode.com/problems/group-anagrams/description/",null,"Group Anagrams"),A.aL("https://forms.gle/54ZiMtvGasZmyZJN6",null,"Submission")],t.Y),"https://forms.gle/faFQgT4UrZ16Pdc48"))
 r($,"ay4","ajS",()=>{var q="https://forms.gle/BHbf6SQEfivym5op8"
-return A.te(A.a([A.aM("https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",null,"Remove nth Node"),A.aM(u.E,null,"Odd Even List"),A.aM(q,null,"Submission")],t.Y),q)})
+return A.te(A.a([A.aL("https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",null,"Remove nth Node"),A.aL(u.E,null,"Odd Even List"),A.aL(q,null,"Submission")],t.Y),q)})
 r($,"ay5","ajT",()=>{var q="https://forms.gle/d2XtxEGpsFgeyoZG7"
-return A.te(A.a([A.aM("https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=divide-and-conquer",null,"Reverse Bits"),A.aM("https://leetcode.com/problems/search-a-2d-matrix/description/",null,"Search 2D"),A.aM(q,null,"Submission")],t.Y),q)})
+return A.te(A.a([A.aL("https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=divide-and-conquer",null,"Reverse Bits"),A.aL("https://leetcode.com/problems/search-a-2d-matrix/description/",null,"Search 2D"),A.aL(q,null,"Submission")],t.Y),q)})
 r($,"ay0","ajO",()=>{var q="https://forms.gle/7cLU93mmtgcGU6qd9"
-return A.te(A.a([A.aM(u.E,null,"Odd Even Lists"),A.aM("https://leetcode.com/problems/palindrome-linked-list/description/",null,"Palindromic List"),A.aM(q,null,"Submission")],t.Y),q)})
-r($,"ayg","ajZ",()=>A.te(A.a([A.aM("https://leetcode.com/problems/design-twitter/description/",null,"Design Twitter")],t.Y),"https://forms.gle/7cLU93mmtgcGU6qd9"))
+return A.te(A.a([A.aL(u.E,null,"Odd Even Lists"),A.aL("https://leetcode.com/problems/palindrome-linked-list/description/",null,"Palindromic List"),A.aL(q,null,"Submission")],t.Y),q)})
+r($,"ayg","ajZ",()=>A.te(A.a([A.aL("https://leetcode.com/problems/design-twitter/description/",null,"Design Twitter"),A.aL("https://forms.gle/sw7J56H8NvveeiHs8",null,"Submission")],t.Y),"https://forms.gle/7cLU93mmtgcGU6qd9"))
 r($,"ayi","abE",()=>{var q,p,o,n,m,l=$.ajU(),k=$.ajQ()
 l=A.nU(k,l)
 q=$.ajV()
@@ -72033,19 +72033,19 @@ n=A.nU($.ajO(),n)
 m=$.ak_()
 return A.a([l,q,p,k,o,n,A.nU($.ajZ(),m)],A.a4("u<Cq>"))})
 r($,"ayb","ajU",()=>{var q="Rotate List",p=u.l,o="https://forms.gle/faFQgT4UrZ16Pdc48"
-return A.a([A.aM(p,o,q),A.aM(p,o,q)],t.Y)})
+return A.a([A.aL(p,o,q),A.aL(p,o,q)],t.Y)})
 r($,"ayc","ajV",()=>{var q=null
-return A.a([A.aM("https://leetcode.com/problems/contains-duplicate/",q,"Contains Duplicate"),A.aM("https://leetcode.com/problems/move-zeroes/description/",q,"Move Zeroes"),A.aM("https://leetcode.com/problems/container-with-most-water/",q,"Max Area"),A.aM("https://leetcode.com/problems/minimum-size-subarray-sum/",q,"Min Subarray Sum"),A.aM("https://leetcode.com/problems/longest-palindromic-substring/description/",q,"Longest Palindrome"),A.aM("https://leetcode.com/problems/first-missing-positive/",q,"Missing Positive"),A.aM("https://leetcode.com/problems/product-of-array-except-self/description/",q,"Product of Array")],t.Y)})
+return A.a([A.aL("https://leetcode.com/problems/contains-duplicate/",q,"Contains Duplicate"),A.aL("https://leetcode.com/problems/move-zeroes/description/",q,"Move Zeroes"),A.aL("https://leetcode.com/problems/container-with-most-water/",q,"Max Area"),A.aL("https://leetcode.com/problems/minimum-size-subarray-sum/",q,"Min Subarray Sum"),A.aL("https://leetcode.com/problems/longest-palindromic-substring/description/",q,"Longest Palindrome"),A.aL("https://leetcode.com/problems/first-missing-positive/",q,"Missing Positive"),A.aL("https://leetcode.com/problems/product-of-array-except-self/description/",q,"Product of Array")],t.Y)})
 r($,"ayd","ajW",()=>{var q=null
-return A.a([A.aM("https://leetcode.com/problems/middle-of-the-linked-list/description/",q,"Middle of List"),A.aM(u.v,q,"Delete Middle Node"),A.aM("https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",q,"Remove Duplicates"),A.aM("https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/",q,"Remove Duplicates 2"),A.aM("https://leetcode.com/problems/merge-two-sorted-lists/",q,"Merge 2 Lists"),A.aM(u.u,q,"Reverse List")],t.Y)})
+return A.a([A.aL("https://leetcode.com/problems/middle-of-the-linked-list/description/",q,"Middle of List"),A.aL(u.v,q,"Delete Middle Node"),A.aL("https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/",q,"Remove Duplicates"),A.aL("https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/",q,"Remove Duplicates 2"),A.aL("https://leetcode.com/problems/merge-two-sorted-lists/",q,"Merge 2 Lists"),A.aL(u.u,q,"Reverse List")],t.Y)})
 r($,"aye","ajX",()=>{var q=null
-return A.a([A.aM("https://leetcode.com/problems/linked-list-cycle",q,"Detect cycle"),A.aM("https://leetcode.com/problems/reverse-linked-list-ii",q,"Reverse 2"),A.aM(u.x,q,"Merge k lists"),A.aM("https://leetcode.com/problems/sort-list/description/",q,"Sort List"),A.aM("https://leetcode.com/problems/copy-list-with-random-pointer/description/",q,"Copy List"),A.aM("https://leetcode.com/problems/intersection-of-two-linked-lists/description/",q,"Optional 2")],t.Y)})
+return A.a([A.aL("https://leetcode.com/problems/linked-list-cycle",q,"Detect cycle"),A.aL("https://leetcode.com/problems/reverse-linked-list-ii",q,"Reverse 2"),A.aL(u.x,q,"Merge k lists"),A.aL("https://leetcode.com/problems/sort-list/description/",q,"Sort List"),A.aL("https://leetcode.com/problems/copy-list-with-random-pointer/description/",q,"Copy List"),A.aL("https://leetcode.com/problems/intersection-of-two-linked-lists/description/",q,"Optional 2")],t.Y)})
 r($,"ayf","ajY",()=>{var q=null
-return A.a([A.aM("https://leetcode.com/problems/binary-search/description/",q,"Binary Search"),A.aM("https://leetcode.com/problems/first-bad-version/description/",q,"First Bad Version"),A.aM("https://leetcode.com/problems/single-element-in-a-sorted-array/description/",q,"single non duplicate"),A.aM("https://leetcode.com/problems/kth-missing-positive-number/",q,"kth missing"),A.aM("https://leetcode.com/problems/sort-an-array/description/",q,"Sort Array"),A.aM(u.x,q,"Merge k lists"),A.aM("https://leetcode.com/problems/longest-nice-substring/description",q,"Longest Nice Substring")],t.Y)})
+return A.a([A.aL("https://leetcode.com/problems/binary-search/description/",q,"Binary Search"),A.aL("https://leetcode.com/problems/first-bad-version/description/",q,"First Bad Version"),A.aL("https://leetcode.com/problems/single-element-in-a-sorted-array/description/",q,"single non duplicate"),A.aL("https://leetcode.com/problems/kth-missing-positive-number/",q,"kth missing"),A.aL("https://leetcode.com/problems/sort-an-array/description/",q,"Sort Array"),A.aL(u.x,q,"Merge k lists"),A.aL("https://leetcode.com/problems/longest-nice-substring/description",q,"Longest Nice Substring")],t.Y)})
 r($,"ay1","ajP",()=>{var q=null
-return A.a([A.aM("https://www.geeksforgeeks.org/problems/print-linked-list-elements/0",q,"Print list"),A.aM("https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/",q,"kth from end"),A.aM("https://leetcode.com/problems/middle-of-the-linked-list/",q,"Middle of List"),A.aM(u.v,q,"Remove Middle Node"),A.aM(u.u,q,"Reverse List"),A.aM("https://leetcode.com/problems/merge-two-sorted-lists/description/",q,"Merge sorted lists"),A.aM("https://leetcode.com/problems/linked-list-cycle/description/",q,"Linked List Cycle")],t.Y)})
+return A.a([A.aL("https://www.geeksforgeeks.org/problems/print-linked-list-elements/0",q,"Print list"),A.aL("https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/",q,"kth from end"),A.aL("https://leetcode.com/problems/middle-of-the-linked-list/",q,"Middle of List"),A.aL(u.v,q,"Remove Middle Node"),A.aL(u.u,q,"Reverse List"),A.aL("https://leetcode.com/problems/merge-two-sorted-lists/description/",q,"Merge sorted lists"),A.aL("https://leetcode.com/problems/linked-list-cycle/description/",q,"Linked List Cycle")],t.Y)})
 r($,"ayh","ak_",()=>{var q=null
-return A.a([A.aM("https://leetcode.com/problems/last-stone-weight/description/?envType=problem-list-v2&envId=22xg7adc",q,"Last Stone"),A.aM("https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=problem-list-v2&envId=22xg7adc",q,"Max Product"),A.aM("https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/?envType=problem-list-v2&envId=22xg7adc",q,"Fill Cups"),A.aM("https://leetcode.com/problems/top-k-frequent-elements/description/",q,"Top K frequent elements"),A.aM("https://leetcode.com/problems/sort-characters-by-frequency/?envType=problem-list-v2&envId=22xg7adc",q,"Sort char by Frequency"),A.aM("https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=problem-list-v2&envId=22xg7adc",q,"Rank Transform")],t.Y)})
+return A.a([A.aL("https://leetcode.com/problems/last-stone-weight/description/?envType=problem-list-v2&envId=22xg7adc",q,"Last Stone"),A.aL("https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=problem-list-v2&envId=22xg7adc",q,"Max Product"),A.aL("https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/?envType=problem-list-v2&envId=22xg7adc",q,"Fill Cups"),A.aL("https://leetcode.com/problems/top-k-frequent-elements/description/",q,"Top K frequent elements"),A.aL("https://leetcode.com/problems/sort-characters-by-frequency/?envType=problem-list-v2&envId=22xg7adc",q,"Sort char by Frequency"),A.aL("https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=problem-list-v2&envId=22xg7adc",q,"Rank Transform")],t.Y)})
 s($,"ax0","aj5",()=>!A.a4("T<m>").b(A.a([],t.Z)))
 s($,"aw7","abk",()=>new A.B())
 r($,"apS","aiw",()=>{var q=new A.V2()
